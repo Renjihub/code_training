@@ -1,2 +1,2 @@
 # code_training
-Sample python program files.
+Sample program files.
