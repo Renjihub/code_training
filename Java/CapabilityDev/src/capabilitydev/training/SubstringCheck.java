@@ -1,3 +1,5 @@
+package capabilitydev.training;
+
 /*Take two strings, check if one string is a substring of another*/
 import java.io.BufferedReader;
 import java.io.IOException;

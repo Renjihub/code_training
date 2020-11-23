@@ -1,5 +1,10 @@
+package capabilitydev.training;
+
 /*Reverse words in a sentence - Take sample sentence and print reverse words of sentence.
-	String Reversal using Iteration / Recursion - Take sample String and print reverse of String characters.*/
+	String Reversal using Iteration / Recursion - Take sample String and print reverse of String characters.
+	
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
